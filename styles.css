@@ -1,5 +1,34 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  /* width: 100%;
+  height: 100%; */
+  /* position: relative; */
+  margin: 20px 0px;
+  background-color: #97dcdf;
+  font-family: "Press Start 2P", cursive;
+}
+
+.tela-jogo{
+  margin: 20px 0px;
+}
+
+.pergunta-atual {
+
+}
+
+.resposta-atual {
+    
+}
+
+#btn-start{
+    
+}
+
+.hidden {
+  display: none;
 }
